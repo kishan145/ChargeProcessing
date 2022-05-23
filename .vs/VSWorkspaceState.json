@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChargeProcessing.API",
+    "\\ChargeProcessing.API\\ChargeProceesing.API",
+    "\\ChargeProcessing.API\\ChargeProceesing.API\\ChargeProceesing.API",
+    "\\ChargeProcessing.API\\ChargeProceesing.API\\ChargeProceesing.API\\Controllers",
+    "\\ChargeProcessing.API\\ChargeProceesing.API\\ChargeProceesing.API\\Models",
+    "\\ChargeProcessing.API\\ChargeProceesing.API\\ChargeProceesing.API\\Repository"
+  ],
+  "SelectedNode": "\\ChargeProcessing.API\\ChargeProceesing.API\\ChargeProceesing.API\\Controllers\\PackProcessing.cs",
+  "PreviewInSolutionExplorer": false
+}
